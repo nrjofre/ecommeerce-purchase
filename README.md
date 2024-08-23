@@ -48,12 +48,12 @@ The application features two main screens:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/nrjofre/ecommeerce-purchase.git
+    git clone https://github.com/nrjofre/ecommerce-purchase.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd flapp-ecommerce
+    cd ecommerce-purchase
     ```
 
 3. **Install client dependencies**:
@@ -81,7 +81,7 @@ The application features two main screens:
 
 8. **Navigate back to the project directory**:
     ```bash
-    cd flapp-ecommerce
+    cd ecommerce-purchase
     ```
 
 9. **Start the application**:
